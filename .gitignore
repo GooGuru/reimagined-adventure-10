@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 .env
 package-lock.json
 node_modules
-=======
-node_modules/
-examples/logo.svg
->>>>>>> 5e39087cc3868d2ccf01ffe12792c25a022e7ddf
