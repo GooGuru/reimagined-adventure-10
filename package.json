@@ -3,13 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-<<<<<<< HEAD
-=======
-  "directories": {
-    "example": "examples",
-    "lib": "lib"
-  },
->>>>>>> 5e39087cc3868d2ccf01ffe12792c25a022e7ddf
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,12 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-<<<<<<< HEAD
     "dotenv": "^16.4.5",
     "inquirer": "^8.2.4",
     "pg": "^8.13.0"
-=======
-    "inquirer": "^8.2.4"
->>>>>>> 5e39087cc3868d2ccf01ffe12792c25a022e7ddf
   }
 }
